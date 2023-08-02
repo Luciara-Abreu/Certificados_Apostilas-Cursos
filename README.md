@@ -28,38 +28,44 @@
 //
 
 <p align="center">
- <a href="#apresentacao">CERTIFICADOS</a>
+ <a href="#apresentacao">CERTIFICADO AWS</a>
  <img src="https://user-images.githubusercontent.com/36546342/257873791-976c9db2-0685-4f60-9c53-2f544427ae06.jpg"
  alt="CERTIFICADO AWS">
 </p>
 
 <p align="center">
- <a href="#apresentacao">CERTIFICADOS</a> 
- <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/c2f9195f-f8f2-428b-adf3-28042accfdf" alt="BUSINESS INTELIGENCE (BI)">
+ <a href="#apresentacao">CERTIFICADO BI</a> 
+ <img src="https://user-images.githubusercontent.com/36546342/257874737-c2f9195f-f8f2-428b-adf3-28042accfdf7.JPG" 
+ alt="BUSINESS INTELIGENCE (BI)">
 </p>
 
 <p align="center">
- <a href="#apresentacao">CERTIFICADOS</a> 
- <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/e831d989-4783-41e4-a8d4-6795890f936" alt="Desenvolvimento com Python"> 
+ <a href="#apresentacao">CERTIFICADO PYTHON</a> 
+ <img src="https://user-images.githubusercontent.com/36546342/257875281-e831d989-4783-41e4-a8d4-6795890f936d.JPG" 
+ alt="Desenvolvimento com Python"> 
 </p>
 
 <p align="center">
- <a href="#apresentacao">CERTIFICADOS</a> •  
-<img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/125324f1-86cd-42dc-baf4-4a6d255c09dd" alt="HTML5 - introdução ao Front-end"> 
+ <a href="#apresentacao">CERTIFICADO HTML5</a> •  
+<img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/125324f1-86cd-42dc-baf4-4a6d255c09dd" 
+alt="HTML5 - introdução ao Front-end"> 
 </p>
 
 <p align="center">
- <a href="#apresentacao">CERTIFICADOS</a> •  
- <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/d602a078-a743-44ca-9991-4c3038de87c0"alt="INTRODUÇÃO E CRIAÇÃO DE SITES"> 
+ <a href="#apresentacao">CERTIFICADO CRIAÇÃO DE SITES</a> •  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/d602a078-a743-44ca-9991-4c3038de87c0"
+ alt="INTRODUÇÃO E CRIAÇÃO DE SITES"> 
 </p>
 
 <p align="center">
- <a href="#apresentacao">CERTIFICADOS</a> •  
- <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/598c52d9-d8ea-4207-9ff9-34b99ef4fbac"alt="Linguagem de programação com PHP"> 
+ <a href="#apresentacao">CERTIFICADO PHP</a> •  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/598c52d9-d8ea-4207-9ff9-34b99ef4fbac"
+ alt="Linguagem de programação com PHP"> 
 </p>
 
 <p align="center">
- <a href="#apresentacao">CERTIFICADOS</a> •  
-<img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/c8209b47-1688-46b5-a19f-708b5e88c4ef"alt="POSTURA E IMAGEM PROFISSIONAL"> 
+ <a href="#apresentacao">CERTIFICADOS POSTURA PROFISSIONAL</a> •  
+<img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/c8209b47-1688-46b5-a19f-708b5e88c4ef"
+alt="POSTURA E IMAGEM PROFISSIONAL"> 
 </p>
 
