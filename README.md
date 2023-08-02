@@ -25,6 +25,13 @@
  Redis, etc. - Udemy
 
 
+
+<p align="center">
+ •  <a href="#apresentacao">NODE JS</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/aac37ee5-596c-467f-bfd2-ec4f47049d93"
+ alt="NODE JS"> 
+</p>
+
 <p align="center">
  •  <a href="#apresentacao">CERTIFICADO PYTHON</a> 
  <img src="https://user-images.githubusercontent.com/36546342/257875281-e831d989-4783-41e4-a8d4-6795890f936d.JPG" 
@@ -69,11 +76,60 @@ alt="HTML5 - introdução ao Front-end">
 </p>
 
 <p align="center">
+ •  <a href="#apresentacao">O QUE É JAVA</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/3d556606-6b57-4ca6-a931-ff6e195af97b"
+ alt="O QUE É JAVA"> 
+</p>
+
+<p align="center">
+ •  <a href="#apresentacao">PREPARANDO O AMBIENTE PARA PROGRAMAR COM JAVA</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/3c2e708a-ffe9-4ae6-8d13-0cadd4996897"
+ alt="PREPARANDO O AMBIENTE PARA PROGRAMAR COM JAVA"> 
+</p>
+
+<p align="center">
+ •  <a href="#apresentacao">JAVA - INTRODUÇÃO A ORIENTAÇÃO A OBJETOS</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/1aa35f7a-2231-4a65-8971-c3f47bd5763"
+ alt="JAVA - INTRODUÇÃO A OO  "> 
+</p>
+
+
+<p align="center">
+ •  <a href="#apresentacao">CRIANDO MEU PRIMEIRO PROJETO COM JAVA</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/d2b8ef7f-be15-42c1-ba23-269c560b5b29"
+ alt="CRIANDO MEU PRIMEIRO PROJETO COM JAVA"> 
+</p>
+
+<p align="center">
+ •  <a href="#apresentacao">O QUE PRENDEMOS COM JAVA - INTRODUÇÃO A OO</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/9b99dc89-c4d2-423e-b9f1-d8bc2265f61a"
+ alt="O QUE PRENDEMOS COM JAVA - INTRODUÇÃO A OO"> 
+</p>
+
+<p align="center">
+ •  <a href="#apresentacao">XXXXXXXXXXXXXXXXXX</a>  
+ <img src="XXXXXXXXXXXXXXXXX"
+ alt="XXXXXXXXXXX"> 
+</p>
+
+<p align="center">
  •  <a href="#apresentacao">CERTIFICADO INTRODUÇÃO COM BANCO DE DADOS</a>  
  <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/0594faa5-b6c0-4d3f-bc07-17541ce16cdc"
  alt="CERTIFICADO INTRODUÇÃO COM BANCO DE DADOS"> 
 </p>
 
+
+<p align="center">
+ •  <a href="#apresentacao">ORACLE 12C</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/a61b3170-e25c-490b-9f2e-9017b9323cee"
+ alt="ORACLE 12C"> 
+</p>
+
+<p align="center">
+ •  <a href="#apresentacao">O QUE FOI APRENDIDO NO CURSO ORACLE 12C</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/ecd872f9-018c-4269-aeb1-afb0a63ed6ae"
+ alt="O QUE FOI APRENDIDO NO CURSO ORACLE 12C"> 
+</p>
 
 <p align="center">
  •  <a href="#apresentacao">CERTIFICADO BUSINESS INTELIGENCE (BI)</a> 
@@ -92,3 +148,33 @@ alt="POSTURA E IMAGEM PROFISSIONAL">
  <img src="https://user-images.githubusercontent.com/36546342/257873791-976c9db2-0685-4f60-9c53-2f544427ae06.jpg"
  alt="CERTIFICADO AWS">
 </p>
+
+
+<p align="center">
+ •  <a href="#apresentacao">ANALISE DE DADOS COM POWER BI</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/54af852c-34a8-4bd2-bf9e-6701cc5f7acf"
+ alt="ANALISE DE DADOS COM POWER BI"> 
+</p>
+
+<p align="center">
+ •  <a href="#apresentacao">INTRODUÇÃO A BUSSINES INTELIGENCE (BI) E DATA WAREHOUSE</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/e4f3b260-18c2-4948-831b-3df94c360995"
+ alt="INTRODUÇÃO A BUSSINES INTELIGENCE (BI)"> 
+</p>
+
+<p align="center">
+ •  <a href="#apresentacao">SIMPLIFICA POWER EXCEL</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/b8d7f35a-7a14-451f-a4ff-fa2d8a0a9e1d"
+ alt="SIMPLIFICA POWER EXCEL"> 
+</p>
+
+
+
+<p align="center">
+ •  <a href="#apresentacao">XXXXXXXXXXXXXXXXXX</a>  
+ <img src="XXXXXXXXXXXXXXXXX"
+ alt="XXXXXXXXXXX"> 
+</p>
+
+
+
