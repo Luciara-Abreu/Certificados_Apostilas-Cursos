@@ -26,22 +26,17 @@
 
 
 <p align="center">
- •  <a href="#apresentacao">CERTIFICADO AWS</a> 
- <img src="https://user-images.githubusercontent.com/36546342/257873791-976c9db2-0685-4f60-9c53-2f544427ae06.jpg"
- alt="CERTIFICADO AWS">
-</p>
-
-<p align="center">
- •  <a href="#apresentacao">CERTIFICADO BUSINESS INTELIGENCE (BI)</a> 
- <img src="https://user-images.githubusercontent.com/36546342/257874737-c2f9195f-f8f2-428b-adf3-28042accfdf7.JPG" 
- alt="BUSINESS INTELIGENCE (BI)">
-</p>
-
-<p align="center">
  •  <a href="#apresentacao">CERTIFICADO PYTHON</a> 
  <img src="https://user-images.githubusercontent.com/36546342/257875281-e831d989-4783-41e4-a8d4-6795890f936d.JPG" 
  alt="Desenvolvimento com Python"> 
 </p>
+
+<p align="center">
+ •  <a href="#apresentacao">CERTIFICADO PHP</a> 
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/598c52d9-d8ea-4207-9ff9-34b99ef4fbac"
+ alt="Linguagem de programação com PHP"> 
+</p>
+
 
 <p align="center">
  •  <a href="#apresentacao">CERTIFICADO HTML5</a> 
@@ -56,9 +51,15 @@ alt="HTML5 - introdução ao Front-end">
 </p>
 
 <p align="center">
- •  <a href="#apresentacao">CERTIFICADO PHP</a> 
- <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/598c52d9-d8ea-4207-9ff9-34b99ef4fbac"
- alt="Linguagem de programação com PHP"> 
+ •  <a href="#apresentacao">CERTIFICADO AWS</a> 
+ <img src="https://user-images.githubusercontent.com/36546342/257873791-976c9db2-0685-4f60-9c53-2f544427ae06.jpg"
+ alt="CERTIFICADO AWS">
+</p>
+
+<p align="center">
+ •  <a href="#apresentacao">CERTIFICADO BUSINESS INTELIGENCE (BI)</a> 
+ <img src="https://user-images.githubusercontent.com/36546342/257874737-c2f9195f-f8f2-428b-adf3-28042accfdf7.JPG" 
+ alt="BUSINESS INTELIGENCE (BI)">
 </p>
 
 <p align="center">
