@@ -51,12 +51,6 @@ alt="HTML5 - introdução ao Front-end">
 </p>
 
 <p align="center">
- •  <a href="#apresentacao">CERTIFICADO AWS</a> 
- <img src="https://user-images.githubusercontent.com/36546342/257873791-976c9db2-0685-4f60-9c53-2f544427ae06.jpg"
- alt="CERTIFICADO AWS">
-</p>
-
-<p align="center">
  •  <a href="#apresentacao">CERTIFICADO BUSINESS INTELIGENCE (BI)</a> 
  <img src="https://user-images.githubusercontent.com/36546342/257874737-c2f9195f-f8f2-428b-adf3-28042accfdf7.JPG" 
  alt="BUSINESS INTELIGENCE (BI)">
@@ -68,3 +62,8 @@ alt="HTML5 - introdução ao Front-end">
 alt="POSTURA E IMAGEM PROFISSIONAL"> 
 </p>
 
+<p align="center">
+ •  <a href="#apresentacao">CERTIFICADO AWS</a> 
+ <img src="https://user-images.githubusercontent.com/36546342/257873791-976c9db2-0685-4f60-9c53-2f544427ae06.jpg"
+ alt="CERTIFICADO AWS">
+</p>
