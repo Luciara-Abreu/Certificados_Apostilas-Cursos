@@ -51,6 +51,31 @@ alt="HTML5 - introdução ao Front-end">
 </p>
 
 <p align="center">
+ •  <a href="#apresentacao">CERTIFICADO ORIENTAÇÃO AOBJETOS COM UML</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/ede759fe-7276-4fc1-8292-a5f8c057fbdf"
+ alt="CERTIFICADO ORIENTAÇÃO AOBJETOS COM UML"> 
+</p>
+
+<p align="center">
+ •  <a href="#apresentacao">CERTIFICADO JAVA FUNDAMENTOS DA LINGUAGEM</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/761760ad-a167-4edc-bcd0-83873a400b74"
+ alt="CERTIFICADO JAVA FUNDAMENTOS DA LINGUAGEM"> 
+</p>
+
+<p align="center">
+ •  <a href="#apresentacao">CERTIFICADO JPA JAVA PERSISTENCIA API COM MOR</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/c3dd5189-b86d-4e6a-8a8b-52477cee0479"
+ alt="CERTIFICADO JPA JAVA PERSISTENCIA API COM MOR"> 
+</p>
+
+<p align="center">
+ •  <a href="#apresentacao">CERTIFICADO INTRODUÇÃO COM BANCO DE DADOS</a>  
+ <img src="https://github.com/Luciara-Abreu/Certificados_Apostilas-Cursos/assets/36546342/0594faa5-b6c0-4d3f-bc07-17541ce16cdc"
+ alt="CERTIFICADO INTRODUÇÃO COM BANCO DE DADOS"> 
+</p>
+
+
+<p align="center">
  •  <a href="#apresentacao">CERTIFICADO BUSINESS INTELIGENCE (BI)</a> 
  <img src="https://user-images.githubusercontent.com/36546342/257874737-c2f9195f-f8f2-428b-adf3-28042accfdf7.JPG" 
  alt="BUSINESS INTELIGENCE (BI)">
