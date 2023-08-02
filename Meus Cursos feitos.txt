@@ -1,7 +1,6 @@
-# Certificados_Cursos
 
+Meus cursos
 
-# CUROS_CERTIFICADOS
 * O que é Java - DevMedia
 * Orientação a Objetos com UML - TargetTrust
 * Preparando o ambiente para programar em Java - DevMedia
@@ -21,5 +20,5 @@
 * Introdução ao Node com typeScript - RocketSeat
 * Excel - intermediário e avançado - Fundação Bradesco
 * Curso Web Moderno Completo com JavaScript - Cod3r Cursos 
-* Construindo uma API Restful de Vendas Javascript com Node.js, ExpressJS, Typescript, TypeORM, Postgres,
- Redis, etc. - Udemy
+* Construindo uma API Restful de Vendas Javascript com Node.js, ExpressJS, Typescript, TypeORM, Postgres, Redis, etc. - Udemy
+
